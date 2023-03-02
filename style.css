@@ -36,6 +36,46 @@ main p{
   background-color: red;
 }
 
+.a{
+  background-color: #e6ffe9;
+}
+
+.b{
+  background-color: #cdffe3;
+}
+.c{
+  background-color: #aeffbd;
+}
+.d{
+  background-color: #93ffab;
+}
+
+.e{
+  background-color: #f3ffd8;
+}
+.f{
+  background-color: #edffbe;
+}
+.g{
+  background-color: #e9ffa5;
+}
+.h{
+  background-color: #e4ff8d;
+}
+
+.i{
+  background-color: #d9e5ff;
+}
+.j{
+  background-color: #bad3ff;
+}
+.k{
+  background-color: #a4c6ff;
+}
+.l{
+  background-color: #8eb8ff;
+}
+
 footer{
   text-align: center;
   line-height: 120px;
