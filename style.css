@@ -3,3 +3,43 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+header{
+  margin: 0 auto;
+  text-align:center;
+  padding: 20px;
+
+}
+
+nav{
+  border-bottom:2px solid black;
+  border-top:2px solid black;
+  display: flex;
+  justify-content:center;
+  padding:15px;
+}
+
+nav p{
+ margin:0 20px 0 20px;
+}
+
+main{
+  width: 800px;
+  margin: 50px auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+main p{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
+
+footer{
+  text-align: center;
+  line-height: 120px;
+  height: 120px;
+  color:white;
+  background-color: gray;
+}
